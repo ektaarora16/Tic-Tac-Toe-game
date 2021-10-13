@@ -29,3 +29,8 @@ This is very easy java code & easy to play.
 3. It ask you to enter your name & your opponent name after that your game will begain 
 
 4. Who score heighest marks will win.
+
+# Team Members
+1. Ekta Arora
+2. Aaquib Ali
+3. Shrejal Singh
