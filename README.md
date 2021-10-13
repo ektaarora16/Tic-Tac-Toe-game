@@ -18,3 +18,14 @@ If no one wins, then the game is said to be draw.
 # Winning Strategy – An Interesting Fact :
 
 If both the players play optimally then it is destined that you will never lose (“although the match can still be drawn”). It doesn’t matter whether you play first or second.In another ways – “ Two expert players will always draw ”.
+
+# How to play 
+This is very easy java code & easy to play.
+
+1.  Download the above java file and run the code on your choice of IDE.
+
+2. Click on "Run"
+
+3. It ask you to enter your name & your opponent name after that your game will begain 
+
+4. Who score heighest marks will win.
